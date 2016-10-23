@@ -146,18 +146,15 @@ color: #d11a88;
     float: left;
 }
 
-
 .jpg1 {
     width: 250px;
 }
-
 .designer-listingarea-box {
   float: left;
     background: #fff;
     margin-bottom: 10px;
     width: 531px;
 }
-
 .designer-listinghead {
     font-family: 'Lato', sans-serif;
     font-size: 20px;
@@ -199,10 +196,11 @@ color: #d11a88;
 }
 
 .big-resize {
-  height: auto;
-      max-height: 556px;
-      max-width: 556px;
-      width: auto;
+    height: auto;
+    max-height: 535px;
+    max-width: 535px;
+    width: auto;
+    width: 535px !IE;
 }
 
 #img-gallery ul {
@@ -277,7 +275,7 @@ img[src=" "] {
     height: 100%;
 }
 
-#wrapper container {
+ .contai {
     width: 100%;
 }
 
