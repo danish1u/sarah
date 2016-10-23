@@ -14,21 +14,6 @@
 margin: auto;
 display: inline-block;
 }
-#esdmaingood{
-  width: 1050px;
-  margin: auto;
-}
-.main {
-    width: 100%;
-    margin: auto;
-        position: relative;
-}
-
-.main-2 {
-  width: 1050px;
-margin: auto;
-display: inline-block;
-}
 #esdmain{
   width: 1050px;
   margin: auto;
@@ -160,6 +145,7 @@ color: #d11a88;
     display: block;
     float: left;
 }
+
 
 .jpg1 {
     width: 250px;
