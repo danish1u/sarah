@@ -13,6 +13,11 @@
   width: 1050px;
 margin: auto;
 display: inline-block;
+     width: 1050px;
+    background: white;
+    position: relative;
+    margin: auto;
+    height: 100%;
 }
 #esdmain{
   width: 1050px;
@@ -261,19 +266,7 @@ img[src=" "] {
     margin: 0 !important;
 }
 
-.main {
-    width: 100%;
-    margin: auto;
-    position: absolute;
-}
 
-.main-2 {
-    width: 1050px;
-    background: white;
-    position: relative;
-    margin: auto;
-    height: 100%;
-}
 
  .contai {
     width: 100%;
