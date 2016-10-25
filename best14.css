@@ -7,7 +7,7 @@
 .main {
     width: 100%;
     margin: auto;
-        position: absolute;
+ position: relative;
 }
 
 .main-2 {
