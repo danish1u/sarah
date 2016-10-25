@@ -6,7 +6,7 @@
 .main {
     width: 100%;
     margin: auto;
-        position: absolute;
+        position: relative;
 }
 
 .main-2 {
@@ -343,7 +343,7 @@ img[src=" "] {
     width: 100%;
     background-color: white;
     border-top: solid 1px #dddddd;
-    background-image: url("https://cdn.shopify.com/s/files/1/1256/2989/t/16/assets/footer_bg.jpg?7762055781178162382");
+    background-image: url("https://raw.githubusercontent.com/danish1u/sarah/master/Untitled-1.jpg");
 }
 
 #footer p {
