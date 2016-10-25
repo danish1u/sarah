@@ -23,6 +23,7 @@ height: 100%;
 #esdmain{
   width: 1050px;
   margin: auto;
+  position: relative;
 }
 #esdmain ul {
   line-height: 36px;
