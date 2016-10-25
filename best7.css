@@ -344,6 +344,7 @@ img[src=" "] {
     border-top: solid 1px #dddddd;
     background-image: url("https://raw.githubusercontent.com/danish1u/sarah/master/Untitled-1.jpg");
   background-size: 100% 100%;
+  display: block;
 }
 
 #footer p {
