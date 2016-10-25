@@ -2,23 +2,23 @@
 #esdmaingood{
   width: 1050px;
   margin: auto;
+  position: relative;
 }
 .main {
     width: 100%;
     margin: auto;
         position: absolute;
-  height: 100%;
 }
 
 .main-2 {
-  width: 1050px;
+ width: 1050px;
 margin: auto;
 display: inline-block;
 width: 1050px;
 background: white;
 position: relative;
 margin: auto;
-height: 100%;
+
 }
 #esdmain{
   width: 1050px;
@@ -270,6 +270,7 @@ img[src=" "] {
 
  .contai {
     width: 100%;
+   position: absolute;
 }
 
 
