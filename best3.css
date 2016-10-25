@@ -335,8 +335,7 @@ img[src=" "] {
 }
 
 #footer {
-    position: relative;
-    ;
+    position: absolute;
     left: 0;
     bottom: 0;
     height: 350px;
@@ -344,6 +343,7 @@ img[src=" "] {
     background-color: white;
     border-top: solid 1px #dddddd;
     background-image: url("https://raw.githubusercontent.com/danish1u/sarah/master/Untitled-1.jpg");
+  background-size: 100% 100%;
 }
 
 #footer p {
