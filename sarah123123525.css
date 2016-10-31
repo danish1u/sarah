@@ -102,7 +102,7 @@ color: #d11a88;
     cursor: pointer;
     height: 33px;
     width: 72px;
-    font: bold 14px/36px 'Raleway', sans-serif;
+    font: bold 12px/36px 'Raleway', sans-serif;
     color: #fff;
     transition: all 0.3s ease-out;
 }
@@ -121,7 +121,7 @@ color: #d11a88;
     cursor: pointer;
     height: 33px;
     width: 72px;
-    font: bold 14px/36px 'Raleway', sans-serif;
+    font: bold 12px/36px 'Raleway', sans-serif;
     color: #fff;
     transition: all 0.3s ease-out;
     text-transform: uppercase;
