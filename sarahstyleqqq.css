@@ -345,10 +345,10 @@ img[src=" "] {
 }
 
 #footer {
- position: absolute;
+     position: relative;
     left: 0;
     bottom: -0;
-    height: 276px;
+    height: 403px;
     width: 100%;
     background-color: white;
     border-top: solid 1px #dddddd;
