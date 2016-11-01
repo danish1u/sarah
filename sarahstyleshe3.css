@@ -307,7 +307,7 @@ img[src=" "] {
 .fomanue ul li {
     list-style: none;
     float: left;
-    padding-right: 28px;
+    padding-right: 10px;
     margin-top: 25px;
     color: #8b8b8b;
     font-family: Old Standard TT;
@@ -348,6 +348,7 @@ img[src=" "] {
     -webkit-font-smoothing: antialiased;
     text-align: center;
     font-weight: inherit;
+    font-family: Old Standard TT;
 }
 
 #footer {
