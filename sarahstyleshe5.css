@@ -44,7 +44,7 @@ border-radius: 7px;
     padding: 18px 9px;
     text-decoration: none;
     font-size: 15px;
-    font-family: sans-serif;
+    font-family: Lato;
     font-weight: lighter;
     letter-spacing: 1px;
     text-rendering: optimizeLegibility;
@@ -82,11 +82,11 @@ color: #d11a88;
     display: block;
 }
 .sc_search {
-  width: 290px;
+  width: 291px;
   height: 40px;
   float: right;
   display: inline-block;
-  margin: 7px 6px 0 162px;
+  margin: 7px 6px 0 2px;
   margin-top: 21px;
 }
 
@@ -156,6 +156,82 @@ color: #d11a88;
     display: block;
     float: left;
 }
+.sc_search1 {
+  width: 291px;
+  height: 40px;
+  float: right;
+  display: inline-block;
+    margin: 7px 6px 0 162px;
+  margin-top: 21px;
+}
+
+.sc_search1 button {
+    overflow: visible;
+    position: relative;
+    margin-left: -2px;
+    float: left;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    height: 33px;
+    width: 72px;
+    font: bold 12px/36px 'Raleway', sans-serif;
+    color: #fff;
+    transition: all 0.3s ease-out;
+}
+
+.sc_search1 button:hover {
+    color: grey;
+}
+
+.sc_search1 button {
+    overflow: visible;
+    position: relative;
+    margin-left: -2px;
+    float: left;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+    height: 33px;
+    width: 72px;
+    font: bold 12px/36px 'Raleway', sans-serif;
+    color: #fff;
+    transition: all 0.3s ease-out;
+    text-transform: uppercase;
+    background: #d11a88;
+    -moz-border-radius: 0 3px 3px 0;
+    -webkit-border-radius: 0 3px 3px 0;
+    border-radius: 0 3px 3px 0;
+}
+
+.sc_search1 button:before {
+    content: '';
+    position: absolute;
+    border-width: 8px 8px 8px 0;
+    border-style: solid solid solid none;
+    border-color: transparent #d11a88 transparent;
+    top: 9px;
+    left: -6px;
+}
+
+.sc_search1 .inp_srh {
+    width: 203px;
+    margin-left: -1px;
+    height: 33px;
+    padding: 5px;
+    background: url("http://www.360save.net/toolsempire/images/search_bg.jpg") no-repeat;
+    background-position: top: 2px;
+    left: 2px;
+    border: 2px solid #ddd;
+    outline: none;
+    color: #181818;
+    line-height: 26px;
+    font-size: 10px;
+    font-family: arial;
+    display: block;
+    float: left;
+}
+
 
 .jpg1 {
     width: 250px;
