@@ -86,7 +86,7 @@ color: #d11a88;
   height: 40px;
   float: right;
   display: inline-block;
-  margin: 7px 6px 0 132px;
+  margin: 7px 6px 0 134px;
   margin-top: 21px;
 }
 
@@ -291,7 +291,7 @@ img[src=" "] {
 }
   #letter {
     display: inline-block;
-      margin-left: -126px;
+      margin-left: -98px;
       float: left;
       margin-top: 18px;
 }
@@ -320,7 +320,7 @@ img[src=" "] {
 }
 
 .fomanue ul li a {
-    font-size: 18px;
+    font-size: 15px;
     color: grey;
 }
 
