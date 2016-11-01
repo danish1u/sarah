@@ -39,20 +39,18 @@ border-radius: 7px;
 }
 
 #esdmain ul li a, .dropbtn {
-   display: block;
-    color: #5d4444;
-    padding: 18px 15px;
-    text-decoration: none;
-    font-size: 16px;
-    font-family: sans-serif;
+   font-family: Lato;
     font-weight: lighter;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #111111;
+    position: relative;
+    display: block;
     letter-spacing: 1px;
+    padding: 15px 15px 11px 4px;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
-    text-transform: uppercase;
 }
-
-
 
 #esdmain ul  a:hover, .dropdown:hover .dropbtn {
 color: #d11a88;
