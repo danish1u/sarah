@@ -49,13 +49,12 @@ text-align: center;
 }
 .submenu li {
   width: 200px;
-background: #fff;
-   border-bottom: 1px solid gray;
+  background: #fff;
 
 }
 .menu .submenu li a{
   text-align: left;
-    line-height: 45px;
+    line-height: 30px;
     border-radius: 0;
     color: black;
 }
@@ -75,6 +74,7 @@ background: #fff;
   float: right;
   display: inline-block;
   margin: 7px 6px 0 0px;
+  margin-top: 17px;
 }
 
 .sc_search button {
