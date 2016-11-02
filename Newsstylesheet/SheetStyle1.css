@@ -34,11 +34,7 @@ text-transform: uppercase;
 font-weight: lighter;
 text-align: center;
 }
-
-/* onhover styles */
-.menu li:hover {
-}
-.menu :hover > a {
+.menu a:hover{
     color:#d11a88;
 }
 
