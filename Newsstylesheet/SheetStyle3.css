@@ -28,7 +28,7 @@ display: block;
 font-family: Lato;
 font-size: 14px;
 line-height: 65px;
-padding: 0 25px;
+padding: 0 8px;
 text-decoration: none;
 text-transform: uppercase;
 font-weight: lighter;
@@ -143,10 +143,79 @@ text-align: center;
     display: block;
     float: left;
 }
+/*------footer-----*/
+.sc_search1 {
+          width: 500px;
+          height: 40px;
+          float: right;
+          display: inline-block;
+          margin: 7px 6px 0 0px;
+          margin-top: 17px;
+        }
 
-#letter {
-  display: inline-block;
-margin-left: 42px;
-float: left;
-margin-top: 18px;
-}
+    .sc_search1 button {
+            overflow: visible;
+            position: relative;
+            margin-left: -2px;
+            float: left;
+            border: 0;
+            padding: 0;
+            cursor: pointer;
+            height: 40px;
+            width: 90px;
+            font: bold 12px/36px 'Raleway', sans-serif;
+            color: #fff;
+            transition: all 0.3s ease-out;
+        }
+
+        .sc_search1 button:hover {
+            color: grey;
+        }
+
+    .sc_search1 button {
+            overflow: visible;
+            position: relative;
+            margin-left: 3px;
+            float: left;
+            border: 0;
+            padding: 0;
+            cursor: pointer;
+            height: 40px;
+            width: 90px;
+            font: bold 12px/36px 'Raleway', sans-serif;
+            color: #fff;
+            transition: all 0.3s ease-out;
+            text-transform: uppercase;
+            background: #d11a88;
+            border-radius: 2px;
+            font-family: Lato;
+            font-size: 16px;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+
+
+          .sc_search1 .inp_srh {
+            width: 275px;
+      margin-left: -1px;
+      height: 40px;
+      padding: 5px;
+      left: 2px;
+      border: 1px solid #ddd;
+      outline: none;
+      color: #181818;
+      line-height: 26px;
+      font-size: 13px;
+      font-family: arial;
+      display: block;
+      float: left;
+          box-shadow: 1px 3px 20px -5px rgba(0, 0, 0, 0.12);
+  }
+
+        #letter {
+          display: inline-block;
+        margin-left: 42px;
+        float: left;
+        margin-top: 18px;
+        }
