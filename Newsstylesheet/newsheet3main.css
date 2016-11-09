@@ -194,9 +194,9 @@ img[src=""], img[src=" "] {
   text-shadow: 1px 1px 1px rgba(117, 115, 115, 0.6);
   display: block;
   color: #8b8b8b;
-  font-family: Old Standard TT;
   font-weight: lighter;
   font-style: italic;
+  font-family: Helvetica Neue;
 }
 
 #footer {
@@ -229,14 +229,13 @@ img[src=""], img[src=" "] {
 
 .product-title p {
   color: #8b8b8b;
-  font-family: Old Standard TT;
-  font-weight: lighter;
-  font-style: italic;
+font-style: italic;
+font-family: "Helvetica Neue";
+font-size: 14px;
 }
 .addtocart p a{
   text-decoration: none;
       font-family: sans-serif;
-      font-size: 20px;
       color: #fff;
       font-style: initial;
     }
@@ -421,7 +420,7 @@ input, section {
 }
 
 label {
-    font-family: 'Lato', sans-serif;
+    font-family: "Helvetica Neue";
     font-size: 14px;
     float: left;
     width: 92px;
@@ -534,7 +533,7 @@ label .fa {
             .bounceInLeft p {
                 padding-left: 15px;
                 padding-right: 10px;
-                font-family: 'Lato', sans-serif;
+                font-family: Helvetica Neue;
                 line-height: 1.2em;
                 text-align: justify;
                 font-size: 10px;
