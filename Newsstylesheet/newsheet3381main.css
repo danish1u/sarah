@@ -149,6 +149,7 @@ img[src=""], img[src=" "] {
 .bounceInLeft ul li {
     font-size: 14px;
     line-height: 1.5em;
+        font-family: HelveticaNeue-Light;
 }
 
 .payment_methods {
@@ -193,7 +194,7 @@ img[src=""], img[src=" "] {
   font-size: 35px;
   text-shadow: 1px 1px 1px rgba(117, 115, 115, 0.6);
   display: block;
-  color: #8b8b8b;
+  color: #1d1d1d;
   font-weight: lighter;
   font-style: italic;
   font-family: Helvetica Neue;
@@ -207,7 +208,6 @@ img[src=""], img[src=" "] {
     width: 100%;
     background-color: white;
     border-top: solid 1px #dddddd;
-    background-image: url("https://raw.githubusercontent.com/danish1u/sarah/master/footerebay.jpg");
     background-size: 109% 66%;
     display: block;
     background-repeat: no-repeat;
@@ -228,10 +228,10 @@ img[src=""], img[src=" "] {
 }
 
 .product-title p {
-  color: #8b8b8b;
-font-style: italic;
-font-family: "Helvetica Neue";
-font-size: 14px;
+    color: #000000;
+    font-style: italic;
+    font-family: "Helvetica Neue";
+    font-size: 15px;
 }
 .addtocart p a{
   text-decoration: none;
@@ -426,7 +426,7 @@ label {
     width: 92px;
     padding: 0.5em;
     line-height: 21px;
-    color: #d11a88;
+    color: #000000;
     text-decoration: none;
     text-align: center;
     cursor: pointer;
