@@ -216,8 +216,8 @@ text-align: center;
   }
 
         #letter {
-          display: inline-block;
-        margin-left: 42px;
-        float: left;
-        margin-top: 18px;
+            display: inline-block;
+    margin-left: 128px;
+    float: left;
+    margin-top: 19px;
         }
